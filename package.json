@@ -9,7 +9,8 @@
   "author": "Shubhra Tiwary",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "express-graphql": "^0.12.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.9"
